@@ -15,3 +15,22 @@ body {
     background-color: black;
     text-align: center;
 }
+
+.main_div {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.main_h2 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
